@@ -33,7 +33,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='[![listicle1_mp4](https://github.com/mahdyah/WebProgrammingClassProject/assets/59580413/154a9498-d4e9-4eff-b0cf-f7503f5cd39c)](https://github.com/mahdyah/ListiclePart1/blob/main/listicle1_mp4.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/mahdyah/ListiclePart1/blob/main/listicle1_mp4.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  Add GIF tool here
